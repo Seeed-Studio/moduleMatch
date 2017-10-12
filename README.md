@@ -1,2 +1,2 @@
-# moduleMatch
-moduleMatch auto update
+# module matcher
+module matcher update
